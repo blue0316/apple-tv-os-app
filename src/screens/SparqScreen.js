@@ -1,36 +1,22 @@
-import React, { useEffect } from "react";
-import { Animated, Button, Image, ImageBackground, View } from "react-native";
-import {
-    widthPercentageToDP as wp,
-    heightPercentageToDP as hp
-} from 'react-native-responsive-screen';
+import React from "react";
+import { Image, View } from "react-native";
 
-import { SparqContainer } from '../components';
+import { useFocusEffect } from '@react-navigation/native';
 
-import { bg_1, sparqlogo_dark } from '../common';
+import { sparqlogo_dark } from '../common';
 import { Colors } from "react-native/Libraries/NewAppScreen";
-
-const animatedValue = new Animated.Value(0);
 
 const SparqScreen = (props) => {
     const { navigation } = props;
-    // const navigateToMain = () => {
-    //     let navTo = setTimeout(() => {
-    //         props.navigation.navigate('MainScreen');
-    //     }, 300)
 
-    //     return () => clearTimeout(navigateToMain);
-    // }
-
-    useEffect(() => {
+    useFocusEffect(() => {
         let navTop = setTimeout(() => {
             navigation.navigate("MainScreen");
+            return () => {
+                clearTimeout(navTop);
+            };
         }, 1000);
-
-        return () => {
-            clearTimeout(navTop);
-        };
-    }, []);
+    });
 
     return (
         <View
