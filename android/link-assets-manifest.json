@@ -1,0 +1,121 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Roboto-Black.ttf",
+      "sha1": "e28654c12713143bfdd72f8c559c48a19c1cbf18"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Bold.ttf",
+      "sha1": "013f1bbcbbd80991a5f00fca52a90d0d7ab8b81f"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Light.ttf",
+      "sha1": "51dbae4543aaa10096e344e48fcffe468bd314a9"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Medium.ttf",
+      "sha1": "fddc8b1c688ef3baed0d5a46abf5f01f0edaf02b"
+    },
+    {
+      "path": "src/assets/fonts/Roboto-Regular.ttf",
+      "sha1": "84d102488738b0ebbc7a5087973effbd54c95bd5"
+    },
+    {
+      "path": "src/assets/images/11_1024.jpg",
+      "sha1": "ab9054d1c6f22bb62dd3ba7a1bd9f63870146ea0"
+    },
+    {
+      "path": "src/assets/images/11_4096.jpg",
+      "sha1": "8b04957c5f40d9129f2b06ee03e8261ac8beda53"
+    },
+    {
+      "path": "src/assets/images/1_1024.jpg",
+      "sha1": "683b5f422e7855b97d6016034a585d7c80236787"
+    },
+    {
+      "path": "src/assets/images/1_4096.jpg",
+      "sha1": "be9e236a134561b8af136bbd53683dec829865bc"
+    },
+    {
+      "path": "src/assets/images/2_1024.jpg",
+      "sha1": "d014f3b76cd971df4ca32273845bddd6949702b7"
+    },
+    {
+      "path": "src/assets/images/2_4096.jpg",
+      "sha1": "4e0a5336b48e2002f9e76dbb8bf5d8dca52271a4"
+    },
+    {
+      "path": "src/assets/images/4_1024.jpg",
+      "sha1": "182bdbd32594efd343c5fb7681ac3d0a33f9dc07"
+    },
+    {
+      "path": "src/assets/images/4_4096.jpg",
+      "sha1": "05203bd849a101ccf3ed168608832de955b8acbb"
+    },
+    {
+      "path": "src/assets/images/7_1024.jpg",
+      "sha1": "914653efbe9b99717dd58d8f567bca5641deb496"
+    },
+    {
+      "path": "src/assets/images/7_4096.jpg",
+      "sha1": "f9748f155ebf5e4edbcef24cd14dfaa8d3695394"
+    },
+    {
+      "path": "src/assets/images/back.png",
+      "sha1": "0ed4903cb7795daceed8edc6d262ac99f1702fb9"
+    },
+    {
+      "path": "src/assets/images/bg_1.jpg",
+      "sha1": "e866bd71f23706a4792fb35ea21531fa9425098a"
+    },
+    {
+      "path": "src/assets/images/logo.png",
+      "sha1": "97270d0c206c9743cebe98bf255ba4cbdab1fedd"
+    },
+    {
+      "path": "src/assets/images/logo_dark.png",
+      "sha1": "4ab47b1d70340c2f198bd8210e9cd99f26fdb3f8"
+    },
+    {
+      "path": "src/assets/models/glb/1.glb",
+      "sha1": "f0e99284d88ed472f2e23f0bc9bf557ebafafa5c"
+    },
+    {
+      "path": "src/assets/models/glb/1.gltf",
+      "sha1": "dca5fb65101ad9f860dee7e03a22af4c9bbff9dd"
+    },
+    {
+      "path": "src/assets/models/glb/11.glb",
+      "sha1": "e467997cd829da4c04ed0f8d63d8ad4b2b659eb0"
+    },
+    {
+      "path": "src/assets/models/glb/11.gltf",
+      "sha1": "ba2ccb6099f3c36079d6302624db0f6cf992c36c"
+    },
+    {
+      "path": "src/assets/models/glb/2.glb",
+      "sha1": "0cf85a4fa7049c1da14762078345024517177684"
+    },
+    {
+      "path": "src/assets/models/glb/2.gltf",
+      "sha1": "08c4478d124d0c23c9181c77892b99b1526e2266"
+    },
+    {
+      "path": "src/assets/models/glb/4.glb",
+      "sha1": "25579e9870f048772ce5a4e404d21ae7132b685e"
+    },
+    {
+      "path": "src/assets/models/glb/4.gltf",
+      "sha1": "711049d6d8d47c51e78d52922b1c275503edb86f"
+    },
+    {
+      "path": "src/assets/models/glb/7.glb",
+      "sha1": "758f0d512c901cc8e85481b3096ce08cb2df9d2b"
+    },
+    {
+      "path": "src/assets/models/glb/7.gltf",
+      "sha1": "bb671082786f3261adedd04c784f7c57f25a5c13"
+    }
+  ]
+}

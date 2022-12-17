@@ -1,5 +1,4 @@
 import React from 'react';
-import { Platform, View } from 'react-native';
 import {
     NavigationContainer,
     createNavigationContainerRef
@@ -8,6 +7,7 @@ import {
     createNativeStackNavigator
 } from '@react-navigation/native-stack';
 
+// import { MainScreen, SparqScreen, ShowModelScreen } from './screens';
 import { MainScreen, SparqScreen } from './screens';
 
 const Stack = createNativeStackNavigator();
@@ -33,6 +33,14 @@ const AppNavigator = (props) => {
                         headerShown: false
                     }}
                 />
+                {/* <Stack.Screen
+                    name="ShowModelScreen"
+                    component={ShowModelScreen}
+                    options={{
+                        title: "Show Model Screen",
+                        headerShown: false
+                    }}
+                /> */}
             </Stack.Navigator>
         </NavigationContainer>
     )
