@@ -14,7 +14,7 @@ class SphereMesh extends THREE.Mesh {
     }
 }
 
-function ThreeComponent() {
+function ModelViewer() {
     // Animmation clock
     const clock = new THREE.Clock()
 
@@ -101,7 +101,7 @@ function ThreeComponent() {
     )
 }
 
-export default ThreeComponent;
+export default ModelViewer;
 
 // const ModelViewer = () => {
 //     const contextCreater = (gl) => {

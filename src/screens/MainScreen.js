@@ -1,10 +1,8 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import {
     View,
-    Button,
     Text,
     Image,
-    TouchableHighlight,
     Pressable,
 } from 'react-native';
 import {

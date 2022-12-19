@@ -7,7 +7,7 @@ import {
     heightPercentageToDP as hp
 } from 'react-native-responsive-screen';
 
-import Viewer from '../components/ModelViewer/Viewer';
+import ModelViewer from '../components/ModelViewer';
 
 const ShowModelScreen = () => {
     return (
@@ -17,7 +17,7 @@ const ShowModelScreen = () => {
                 height: hp('100%')
             }}
         >
-            <Viewer />
+            <ModelViewer />
         </View>
     )
 };
